@@ -1,0 +1,68 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    font-size: 1.25rem;
+    margin: 0;
+    background-color: #affaf29d;
+}
+header{
+    background-color: #04555c;
+}
+#title{
+    color: #4bcdcf;
+    text-align: center;
+    font-size: 4rem;
+    margin: 0;
+    padding: 0.5rem 0;
+}
+nav{
+    background-color: #19a4bb;
+}
+nav a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #affaf2;
+    padding: 0 0.5rem;
+}
+nav a:hover{
+    color:#048e9c;
+}
+main{
+    padding: 1.5rem;
+}
+.yoga{
+    display: flex;
+}
+.yoga img{
+    height: 25rem;
+    width: 12.5rem;
+    margin: 1rem 1rem 0 1rem;
+    border-radius: 1.5rem;
+    box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, 0.5);
+}
+.yoga p{
+    margin: 1rem 1rem 0 1rem;
+}
+.heading1{
+    color: #19a4bb;
+}
+.history dl dt{
+    color: #4bcdcf;
+}
+.asan-heading{
+    color:#048e9c;
+}
+.asan-item{
+    display: flex;
+}
+.asan-img{
+    height: 16rem;
+    width: 24rem;
+    margin-right: 1rem;
+    border-radius: 1.5rem;
+    box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, 0.5);
+}
+footer{
+    padding-left: 2.5rem;
+}
